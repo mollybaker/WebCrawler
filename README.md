@@ -9,11 +9,16 @@ Please only run this on a website that you have permission to scrape/crawl.
 A few things need to be installed in order for this to work:
 
 In a command prompt or terminal, type:
->pip install scrapy
->pip install BeautifulSoup
->pip install requests
+```sh
+pip install scrapy
+pip install BeautifulSoup
+pip install requests
+``` 
+
 
 #Running
->python webcrawler.py
+```sh 
+python webcrawler.py
+```
 
 **I accept no liability for any adverse effects on any information systems, or iillegal or unethical use of this code in any capacity.
