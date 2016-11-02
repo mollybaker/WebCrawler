@@ -11,7 +11,7 @@ A few things need to be installed in order for this to work:
 In a command prompt or terminal, type:
 ```sh
 pip install scrapy
-pip install BeautifulSoup
+pip install beautifulsoup4
 pip install requests
 ``` 
 
